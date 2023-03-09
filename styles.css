@@ -1,0 +1,22 @@
+h1 {
+    color: goldenrod;
+    background-color: white;
+    font-family:sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+img {
+    width: 900px;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+ul {
+    color: black;
+    background-color: white;
+    font-family: sans-serif;
+    font-size: 25px;
+}
